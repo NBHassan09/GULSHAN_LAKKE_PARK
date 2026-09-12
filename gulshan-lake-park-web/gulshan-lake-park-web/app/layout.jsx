@@ -1,13 +1,13 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Gulshan Lake Park — Better Site Planning for a Greener Dhaka",
+  title: "Designing Better Parks for Dhaka — Evidence from Gulshan Lake Park",
   description:
-    "A low-carbon, climate-responsive redesign of Gulshan Lake Park by students of the Department of Urban and Regional Planning, BUET.",
+    "A research-led case study using Gulshan Lake Park to develop practical principles for healthier, more inclusive and climate-responsive neighbourhood parks across Dhaka.",
   openGraph: {
-    title: "Gulshan Lake Park — Greener Future of Dhaka",
+    title: "Designing Better Parks for Dhaka — Evidence from Gulshan Lake Park",
     description:
-      "A site-responsive proposal that activates the lake edge while preserving the park's blue-green structure.",
+      "From field evidence to a transferable Dhaka Park Improvement Framework: climate comfort, access, blue-green performance, inclusion, flexibility and management.",
     images: ["/assets/hero-park.webp"],
   },
 };
